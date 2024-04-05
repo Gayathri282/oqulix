@@ -286,8 +286,8 @@ section{padding: 0;}
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     display: inline-block;
-    padding-top: 13px;
-    margin-top: 20px;
+    /* padding-top: 13px;
+    margin-top: 20px; */
     padding-left: 30px;
     font-size: 30px;
     transition: .6s ease;
@@ -315,7 +315,7 @@ section{padding: 0;}
 .side-nav-menu .nav-menu{
     font-family: 'Montserrat', sans-serif;
     padding-left: 35px;
-    padding-top: 120px;
+    /* padding-top: 120px; */
 }
 
 .broad .side-nav-menu ul{
@@ -1059,7 +1059,7 @@ svg.slider-shape{
 
 #team-slider .owl-item.center .item{
     height: auto;
-    transform: scale(1.0);
+    transform: scale(0.8);
 }
 
 #team-slider .owl-item.center .team-box .team-text h5 {
@@ -2233,7 +2233,7 @@ body, html {
 /* Add or modify your existing styles as needed */
 
 .video-section {
-    height: 654px;
+    height: 90vh;
     overflow:hidden;
     width: 630px;
 }
@@ -2417,7 +2417,7 @@ ul{list-style: none;}
     .owl-dots {
         position: absolute;
         width: 100%;
-        bottom: 10px; /* Adjust the distance from the bottom */
+        bottom: 20px; /* Adjust the distance from the bottom */
         display: flex;
         margin-left: 450px;
     }
@@ -2436,4 +2436,4 @@ ul{list-style: none;}
         }
       }
   
-  
+
