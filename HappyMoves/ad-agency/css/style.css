@@ -3327,19 +3327,23 @@ height: 60vh !important;
 .brochure-btn{
     background: white;
     /* width: 200px; */
+    width: 80%;
+    text-align: center;
     height: 41px;
     border-radius: 2.5rem;
     /* border: 1px solid; */
-    margin-top: 30px;
+    /* margin-top: 30px; */
     color: black;
+    font-size: 18px;
     padding-left: 20px;
     padding-right: 20px;
     font-weight: 500;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 1.5);
+    border: 1px solid black;
+    /* box-shadow: 0 0 30px rgba(0, 0, 0, 1.5); */
 }
 .brochure-btn:hover{
-    background-color: transparent;
-    border:1px solid white;
+    background-color: black;
+    /* border:1px solid white; */
     transition: ease-in 200ms;
     color: white;
   
