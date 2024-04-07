@@ -3924,7 +3924,7 @@ input:checked + label .description-about {
 }
 
 .card-about[for="c1"] {
-    background-image: url('../img/450px-Neck_Pain_Diagram.png');
+    background-image: url('../img/neck-happymoves.jpg');
 }
 .card-about[for="c2"] {
     background-image: url('../img/shoulder-happymoves.jpg');
