@@ -2464,7 +2464,7 @@ ul{list-style: none;}
     .card-img-top{
         height: 150px;
         max-width: 300px;
-        border-radius: 40px;
+        border-radius: 16px;
         margin: auto;
     }
     .card-text{
