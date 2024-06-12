@@ -60,7 +60,7 @@ $(window).on("load", function () {
             navigation: {
                 'bulletsColor': '#535353',
                 'position': 'left',
-                'tooltips': ['Home', 'About', 'Products', 'Our Team', 'Testimonials', 'Contact'],
+                'tooltips': ['Home', 'About', 'Products', 'Services', 'Our Team','Testimonials', 'Contact']
             },
 
             //events
