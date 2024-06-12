@@ -2483,12 +2483,12 @@ ul{list-style: none;}
     }
     @media (max-width: 575.98px) {
         .servicesHeading {
-            font-size: 22px;
+            font-size: 22px !important;
         }
     }
     
     @media screen and (max-width: 767px) {
         .servicesHeading  {
-            font-size: 26px;
+            font-size: 26px !important;
         }
     }
