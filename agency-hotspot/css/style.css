@@ -2456,3 +2456,28 @@ ul{list-style: none;}
             margin-bottom: 20px !important;
         }
     }
+
+    /* Services */
+    .card{
+        background-color: transparent;
+    }
+    .card-img-top{
+        height: 150px;
+        max-width: 300px;
+        border-radius: 40px;
+        margin: auto;
+    }
+    .card-text{
+        line-height: 1.4;
+        font-size: 12px;
+    }
+    .services{
+        background-color: #0F021C !important;
+        
+    width: 95%;
+    margin-left: 5%;
+    }
+    .servicesHeading{
+        font-weight: bold;
+        font-size: 48px;
+    }
