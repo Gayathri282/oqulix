@@ -2488,7 +2488,7 @@ ul{list-style: none;}
     }
     
     @media screen and (max-width: 767px) {
-        .servicesHeading h2 {
+        .servicesHeading  {
             font-size: 26px;
         }
     }
