@@ -2492,3 +2492,16 @@ ul{list-style: none;}
             font-size: 26px !important;
         }
     }
+    p.serviceImg{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 115px;
+        /* left: 22px; */
+        background: #000000b0;
+        font-weight: 700;
+        border-radius: 2px;
+        padding: 10px;
+        text-align: center;
+    }
